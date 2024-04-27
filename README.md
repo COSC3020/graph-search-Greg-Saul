@@ -30,3 +30,12 @@ answer, including your reasoning, to this markdown file.
 ## Bonus
 
 Implement and analyze breadth-first search.
+
+
+## Sources
+
+https://www.w3schools.com/js/js_loop_forof.asp
+
+I coded my algorithm with the help of the pseudo code and also used chatgpt to help me debug
+
+looked at https://github.com/COSC3020/graph-search-ZachRenz to see how he had his tests formatted.
