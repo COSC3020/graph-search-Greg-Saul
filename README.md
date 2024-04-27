@@ -27,6 +27,10 @@ the function and run automatically when you commit through a GitHub action.
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+## My Analysis
+
+My worst case complexity would be $\theta(E+V)$ where $E$ is the number of edges and $V$ is the number of vertices. This is because my algorithm will try to check every single node and all of the ones connected to it.
+
 ## Bonus
 
 Implement and analyze breadth-first search.
