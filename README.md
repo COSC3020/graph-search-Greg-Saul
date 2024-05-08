@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M24O3lId)
 # Search in Graphs
 
 Recall the pseudocode for Depth-First Search:
@@ -26,6 +27,19 @@ the function and run automatically when you commit through a GitHub action.
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
 
+## My Analysis
+
+My worst case complexity would be $\theta(E+V)$ where $E$ is the number of edges and $V$ is the number of vertices. This is because my algorithm will try to check every single node and all of the ones connected to it.
+
 ## Bonus
 
 Implement and analyze breadth-first search.
+
+
+## Sources
+
+https://www.w3schools.com/js/js_loop_forof.asp  - Got this from tyler laceby
+
+I coded my algorithm with the help of the pseudo code and also used chatgpt to help me debug
+
+looked at https://github.com/COSC3020/graph-search-ZachRenz to see how he had his tests formatted.
