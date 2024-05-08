@@ -38,7 +38,7 @@ Implement and analyze breadth-first search.
 
 ## Sources
 
-https://www.w3schools.com/js/js_loop_forof.asp
+https://www.w3schools.com/js/js_loop_forof.asp  - Got this from tyler laceby
 
 I coded my algorithm with the help of the pseudo code and also used chatgpt to help me debug
 
